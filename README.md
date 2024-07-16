@@ -1,6 +1,7 @@
 # PFL-WSOD
 The official code of "**Proposal Feature Learning Using Proposal Relations for Weakly Supervised Object Detection**", (**IEEE ICME'24**). 
 
+Authors: Zhaofei Wang, [Weijia Zhang](https://www.weijiazhangxh.com/), and [Min-Ling Zhang](http://palm.seu.edu.cn/zhangml/)
 
 Results on VOC 2007 reported in our paper are obtained by using Selective Search as proposal generator in training process and using MCG/COB as proposal generator in testing process. 
 
