@@ -3,7 +3,7 @@ The official code of "**Proposal Feature Learning Using Proposal Relations for W
 
 Authors: Zhaofei Wang, [Weijia Zhang](https://www.weijiazhangxh.com/), and [Min-Ling Zhang](http://palm.seu.edu.cn/zhangml/)
 
-Results on VOC 2007 reported in our paper are obtained by using Selective Search as proposal generator in training process and using MCG/COB as proposal generator in testing process. 
+Results of PFL-WSOD on VOC 2007 reported in our paper are obtained by using Selective Search as proposal generator in training process and using MCG/COB as proposal generator in testing process. 
 
 Here, we report some more results. For PFL-WSOD_inter, we obtain 56.8% mAP after training on VOC 2007 trainval set (using Selective Search) and testing on VOC 2007 test set (using Selective Search), we also obtain 58.9% mAP after training on VOC 2007 trainval set (using MCG) and testing on VOC 2007 test set (using MCG).
 
