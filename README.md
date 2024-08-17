@@ -33,4 +33,4 @@ CUDA_VISIBLE_DEVICES=0 python tools/train_net_step_inter.py --dataset voc2007 --
 CUDA_VISIBLE_DEVICES=0 python tools/test_net_inter.py --dataset voc2007test --cfg configs/PFL_voc2007.yaml --load_ckpt $model_path
 ```
 ## Acknowledgment
-Our detection code is built upon [PCL](https://github.com/ppengtang/pcl.pytorch) and [NDI-WSOD](hhttps://github.com/GC-WSL/NDI). We are very grateful to all the contributors to these codebases.
+Our detection code is built upon [PCL](https://github.com/ppengtang/pcl.pytorch) and [NDI-WSOD](https://github.com/GC-WSL/NDI). We are very grateful to all the contributors to these codebases.
