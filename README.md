@@ -9,6 +9,8 @@ Here, we report some more results. For PFL-WSOD_inter, we obtain 56.8% mAP after
 
 Results for PFL-WSOD_inter on VOC 2012 reported in our paper using COB as proposal generator in testing process can be obtained in http://host.robots.ox.ac.uk:8080/anonymous/F30MQW.html.
 
+![avatar](https://github.com/zhaofeiwang2000/PFL-WSOD/blob/master/network_1223.jpg)
+
 ## Get Started
 ### Installation
 ```Shell
