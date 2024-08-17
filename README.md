@@ -1,5 +1,5 @@
 # Proposal Feature Learning Using Proposal Relations for Weakly Supervised Object Detection
-The official code of "**Proposal Feature Learning Using Proposal Relations for Weakly Supervised Object Detection**", (**IEEE ICME'24**). 
+The official code of "Proposal Feature Learning Using Proposal Relations for Weakly Supervised Object Detection", (**IEEE ICME'24**). 
 
 Authors: Zhaofei Wang, [Weijia Zhang](https://www.weijiazhangxh.com/), and [Min-Ling Zhang](http://palm.seu.edu.cn/zhangml/)
 
